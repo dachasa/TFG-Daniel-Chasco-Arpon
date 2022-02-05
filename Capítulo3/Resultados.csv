@@ -1,0 +1,201 @@
+Jornada;Equipo1;Equipo2;Resultado
+6;Atletico de Bilbao;Sabadell;1
+6;Atletico de Madrid;Elche;1
+6;Barcelona;Espanol;1
+6;Sporting de Gijon;Valencia;2
+6;Granada;Las Palmas;1
+6;CD Malaga;Real Madrid;2
+6;Real Sociedad;Sevilla;1
+6;Zaragoza;Celta de Vigo;0
+7;Elche;Atletico de Bilbao;0
+7;Espanol;Atletico de Madrid;0
+7;Granada;Real Sociedad;1
+7;Las Palmas;Celta de Vigo;2
+7;Real Madrid;Barcelona;2
+7;Sabadell;Zaragoza;1
+7;Sevilla;Sporting de Gijon;0
+7;Valencia;CD Malaga;1
+8;Barcelona;Valencia;2
+8;Atletico de Bilbao;Espanol;1
+8;Atletico de Madrid;Real Madrid;0
+8;Celta de Vigo;Sabadell;1
+8;Sporting de Gijon;Granada;1
+8;Las Palmas;Real Sociedad;1
+8;CD Malaga;Sevilla;0
+8;Zaragoza;Elche;0
+9;Elche;Celta de Vigo;0
+9;Espanol;Zaragoza;0
+9;Granada;CD Malaga;0
+9;Real Sociedad;Sporting de Gijon;1
+9;Real Madrid;Atletico de Bilbao;2
+9;Sabadell;Las Palmas;0
+9;Sevilla;Barcelona;2
+9;Valencia;Atletico de Madrid;1
+10;Atletico de Bilbao;Valencia;0
+10;Atletico de Madrid;Sevilla;1
+10;Barcelona;Granada;1
+10;Celta de Vigo;Espanol;1
+10;Las Palmas;Sporting de Gijon;2
+10;CD Malaga;Real Sociedad;0
+10;Sabadell;Elche;1
+10;Zaragoza;Real Madrid;2
+11;Espanol;Sabadell;1
+11;Sporting de Gijon;CD Malaga;1
+11;Granada;Atletico de Madrid;0
+11;Las Palmas;Elche;0
+11;Real Sociedad;Barcelona;1
+11;Real Madrid;Celta de Vigo;1
+11;Sevilla;Atletico de Bilbao;1
+11;Valencia;Zaragoza;1
+12;Atletico de Bilbao;Granada;1
+12;Atletico de Madrid;Real Sociedad;1
+12;Barcelona;Sporting de Gijon;1
+12;Celta de Vigo;Valencia;1
+12;Elche;Espanol;0
+12;CD Malaga;Las Palmas;0
+12;Sabadell;Real Madrid;0
+12;Zaragoza;Sevilla;1
+13;Espanol;Las Palmas;1
+13;Sporting de Gijon;Atletico de Madrid;0
+13;Granada;Zaragoza;1
+13;CD Malaga;Barcelona;2
+13;Real Sociedad;Atletico de Bilbao;1
+13;Real Madrid;Elche;0
+13;Sevilla;Celta de Vigo;1
+13;Valencia;Sabadell;1
+14;Atletico de Bilbao;Sporting de Gijon;1
+14;Atletico de Madrid;CD Malaga;1
+14;Celta de Vigo;Granada;1
+14;Elche;Valencia;2
+14;Espanol;Real Madrid;2
+14;Las Palmas;Barcelona;1
+14;Sabadell;Sevilla;1
+14;Zaragoza;Real Sociedad;1
+15;Barcelona;Atletico de Madrid;1
+15;Sporting de Gijon;Zaragoza;0
+15;Granada;Sabadell;1
+15;CD Malaga;Atletico de Bilbao;0
+15;Real Sociedad;Celta de Vigo;2
+15;Real Madrid;Las Palmas;1
+15;Sevilla;Elche;1
+15;Valencia;Espanol;1
+16;Atletico de Madrid;Las Palmas;1
+16;Barcelona;Atletico de Bilbao;2
+16;Sporting de Gijon;Celta de Vigo;1
+16;Granada;Elche;1
+16;CD Malaga;Zaragoza;1
+16;Real Sociedad;Sabadell;1
+16;Sevilla;Espanol;1
+16;Valencia;Real Madrid;1
+17;Atletico de Bilbao;Atletico de Madrid;1
+17;Celta de Vigo;CD Malaga;0
+17;Elche;Real Sociedad;2
+17;Espanol;Granada;1
+17;Las Palmas;Valencia;0
+17;Real Madrid;Sevilla;1
+17;Sabadell;Sporting de Gijon;1
+17;Zaragoza;Barcelona;2
+18;Atletico de Bilbao;Las Palmas;1
+18;Atletico de Madrid;Zaragoza;1
+18;Barcelona;Celta de Vigo;1
+18;Sporting de Gijon;Elche;1
+18;Granada;Real Madrid;1
+18;CD Malaga;Sabadell;1
+18;Real Sociedad;Espanol;1
+18;Sevilla;Valencia;0
+19;Celta de Vigo;Atletico de Madrid;1
+19;Elche;CD Malaga;0
+19;Espanol;Sporting de Gijon;1
+19;Real Madrid;Real Sociedad;1
+19;Sabadell;Barcelona;1
+19;Sevilla;Las Palmas;1
+19;Valencia;Granada;1
+19;Zaragoza;Atletico de Bilbao;2
+20;Atletico de Bilbao;Celta de Vigo;1
+20;Atletico de Madrid;Sabadell;1
+20;Barcelona;Elche;0
+20;Sporting de Gijon;Real Madrid;2
+20;Granada;Sevilla;0
+20;Las Palmas;Zaragoza;1
+20;CD Malaga;Espanol;0
+20;Real Sociedad;Valencia;0
+21;Celta de Vigo;Zaragoza;1
+21;Elche;Atletico de Madrid;2
+21;Espanol;Barcelona;2
+21;Las Palmas;Granada;1
+21;Real Madrid;CD Malaga;0
+21;Sabadell;Atletico de Bilbao;1
+21;Sevilla;Real Sociedad;1
+21;Valencia;Sporting de Gijon;1
+22;Atletico de Bilbao;Elche;1
+22;Atletico de Madrid;Espanol;1
+22;Barcelona;Real Madrid;2
+22;Celta de Vigo;Las Palmas;1
+22;Sporting de Gijon;Sevilla;1
+22;CD Malaga;Valencia;2
+22;Real Sociedad;Granada;0
+22;Zaragoza;Sabadell;1
+23;Elche;Zaragoza;1
+23;Espanol;Atletico de Bilbao;1
+23;Granada;Sporting de Gijon;1
+23;Real Sociedad;Las Palmas;1
+23;Real Madrid;Atletico de Madrid;1
+23;Sabadell;Celta de Vigo;1
+23;Sevilla;CD Malaga;1
+23;Valencia;Barcelona;0
+24;Atletico de Madrid;Valencia;1
+24;Atletico de Bilbao;Real Madrid;2
+24;Barcelona;Sevilla;1
+24;Celta de Vigo;Elche;1
+24;Sporting de Gijon;Real Sociedad;1
+24;Las Palmas;Sabadell;1
+24;CD Malaga;Granada;1
+24;Zaragoza;Espanol;0
+25;Elche;Sabadell;0
+25;Espanol;Celta de Vigo;2
+25;Sporting de Gijon;Las Palmas;1
+25;Granada;Barcelona;2
+25;Real Sociedad;CD Malaga;2
+25;Real Madrid;Zaragoza;1
+25;Sevilla;Atletico de Madrid;0
+25;Valencia;Atletico de Bilbao;1
+26;Atletico de Madrid;Granada;1
+26;Atletico de Bilbao;Sevilla;1
+26;Barcelona;Real Sociedad;1
+26;Celta de Vigo;Real Madrid;1
+26;Elche;Las Palmas;1
+26;CD Malaga;Sporting de Gijon;1
+26;Sabadell;Espanol;0
+26;Zaragoza;Valencia;2
+27;Espanol;Elche;1
+27;Sporting de Gijon;Barcelona;2
+27;Granada;Atletico de Bilbao;0
+27;Las Palmas;CD Malaga;2
+27;Real Sociedad;Atletico de Madrid;2
+27;Real Madrid;Sabadell;1
+27;Sevilla;Zaragoza;1
+27;Valencia;Celta de Vigo;1
+28;Atletico de Bilbao;Real Sociedad;0
+28;Atletico de Madrid;Sporting de Gijon;1
+28;Barcelona;CD Malaga;1
+28;Celta de Vigo;Sevilla;1
+28;Elche;Real Madrid;2
+28;Las Palmas;Espanol;0
+28;Sabadell;Valencia;2
+28;Zaragoza;Granada;0
+29;CD Malaga;Atletico de Madrid;0
+29;Real Madrid;Espanol;1
+29;Sporting de Gijon;Atletico de Bilbao;1
+29;Granada;Celta de Vigo;1
+29;Real Sociedad;Zaragoza;1
+29;Sevilla;Sabadell;1
+29;Valencia;Elche;1
+29;Barcelona;Las Palmas;1
+30;Atletico de Bilbao;CD Malaga;1
+30;Atletico de Madrid;Barcelona;0
+30;Celta de Vigo;Real Sociedad;0
+30;Elche;Sevilla;1
+30;Espanol;Valencia;1
+30;Las Palmas;Real Madrid;0
+30;Sabadell;Granada;2
+30;Zaragoza;Sporting de Gijon;0

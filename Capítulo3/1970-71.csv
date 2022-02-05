@@ -1,0 +1,201 @@
+Equipo1,Equipo2,JEquipo1_(N-5),JEquipo1_(N-4),JEquipo1_(N-3),JEquipo1_(N-2),JEquipo1_(N-1),JEquipo1_(N-5)LV,JEquipo1_(N-4)LV,JEquipo1_(N-3)LV,JEquipo1_(N-2)LV,JEquipo1_(N-1)LV,JEquipo2_(N-5),JEquipo2_(N-4),JEquipo2_(N-3),JEquipo2_(N-2),JEquipo2_(N-1),JEquipo2_(N-5)LV,JEquipo2_(N-4)LV,JEquipo2_(N-3)LV,JEquipo2_(N-2)LV,JEquipo2_(N-1)LV,Resultado
+Atletico de Bilbao,Sabadell,0,1,0,1,1,0,1,1,0,1,0,1,1,1,2,0,1,0,1,0,1
+Atletico de Madrid,Elche,0,1,2,1,2,1,0,1,0,1,0,1,1,1,2,0,1,0,1,0,1
+Barcelona,Espanol,0,1,0,1,2,1,0,1,0,1,2,1,0,2,0,0,1,0,1,0,1
+Sporting de Gijon,Valencia,1,1,1,2,0,1,0,1,0,1,1,1,2,0,0,1,0,0,1,0,2
+Granada,Las Palmas,0,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,1,1
+CD Malaga,Real Madrid,0,1,1,1,0,1,0,1,0,1,1,1,1,0,0,0,1,0,1,0,2
+Real Sociedad,Sevilla,0,1,0,0,0,1,0,1,0,1,2,1,2,0,1,1,0,1,1,0,1
+Zaragoza,Celta de Vigo,0,1,2,1,0,0,1,0,1,0,1,1,0,1,1,0,1,0,1,0,0
+Elche,Atletico de Bilbao,1,1,1,2,1,1,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0
+Espanol,Atletico de Madrid,1,0,2,0,1,1,0,1,0,1,1,2,1,2,1,0,1,0,1,0,0
+Granada,Real Sociedad,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1,0,1,0,1
+Las Palmas,Celta de Vigo,1,0,0,0,1,1,0,0,1,1,1,0,1,1,0,1,0,1,0,1,2
+Real Madrid,Barcelona,1,1,0,0,2,1,0,1,0,1,1,0,1,2,1,0,1,0,1,0,2
+Sabadell,Zaragoza,1,1,1,2,1,1,0,1,0,1,1,2,1,0,0,1,0,1,0,0,1
+Sevilla,Sporting de Gijon,1,2,0,1,1,0,1,1,0,1,1,1,2,0,2,0,1,0,1,0,0
+Valencia,CD Malaga,1,2,0,0,2,0,0,1,0,1,1,1,1,0,2,0,1,0,1,0,1
+Barcelona,Valencia,0,1,2,1,2,1,0,1,0,1,2,0,0,2,1,0,1,0,1,0,2
+Atletico de Bilbao,Espanol,0,1,1,1,0,1,0,1,0,1,0,2,0,1,0,0,1,0,1,0,1
+Atletico de Madrid,Real Madrid,2,1,2,1,0,1,0,1,0,1,1,0,0,2,2,0,1,0,1,0,0
+Celta de Vigo,Sabadell,0,1,1,0,2,0,1,0,1,1,1,1,2,1,1,0,1,0,1,0,1
+Sporting de Gijon,Granada,1,2,0,2,0,1,0,1,0,1,1,0,1,1,1,1,0,1,0,0,1
+Las Palmas,Real Sociedad,0,0,0,1,2,0,0,1,1,0,0,0,0,1,1,1,0,1,0,1,1
+CD Malaga,Sevilla,1,1,0,2,1,1,0,1,0,1,2,0,1,1,0,1,1,0,1,0,0
+Zaragoza,Elche,2,1,0,0,1,0,1,0,0,1,1,1,2,1,0,0,1,0,1,0,0
+Elche,Celta de Vigo,1,2,1,0,0,1,0,1,0,1,1,1,0,2,1,1,0,1,1,0,0
+Espanol,Zaragoza,2,0,1,0,1,1,0,1,0,1,1,0,0,1,0,1,0,0,1,0,0
+Granada,CD Malaga,0,1,1,1,1,0,1,0,0,1,1,0,2,1,0,0,1,0,1,0,0
+Real Sociedad,Sporting de Gijon,0,0,1,1,1,0,1,0,1,1,2,0,2,0,1,0,1,0,1,0,1
+Real Madrid,Atletico de Bilbao,0,0,2,2,0,1,0,1,0,1,1,1,1,0,1,0,1,0,1,0,2
+Sabadell,Las Palmas,1,2,1,1,1,1,0,1,0,1,0,0,1,2,1,0,1,1,0,0,0
+Sevilla,Barcelona,0,1,1,0,0,1,0,1,0,1,1,2,1,2,2,0,1,0,1,0,2
+Valencia,Atletico de Madrid,0,0,2,1,2,1,0,1,0,1,1,2,1,0,0,0,1,0,1,0,1
+Atletico de Bilbao,Valencia,1,1,0,1,2,1,0,1,0,1,0,2,1,2,1,0,1,0,1,0,0
+Atletico de Madrid,Sevilla,2,1,0,0,1,1,0,1,0,1,1,1,0,0,2,0,1,0,1,0,1
+Barcelona,Granada,2,1,2,2,2,1,0,1,0,1,1,1,1,1,0,1,0,0,1,0,1
+Celta de Vigo,Espanol,1,0,2,1,0,0,1,1,0,1,0,1,0,1,0,0,1,0,1,0,1
+Las Palmas,Sporting de Gijon,0,1,2,1,0,1,1,0,0,1,0,2,0,1,1,1,0,1,0,1,2
+CD Malaga,Real Sociedad,0,2,1,0,0,1,0,1,0,1,0,1,1,1,1,1,0,1,1,0,0
+Sabadell,Elche,2,1,1,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,1,0,1
+Zaragoza,Real Madrid,0,0,1,0,0,0,0,1,0,1,0,2,2,0,2,0,1,0,1,0,2
+Espanol,Sabadell,1,0,1,0,1,1,0,1,0,1,1,1,1,0,1,1,0,1,0,0,1
+Sporting de Gijon,CD Malaga,2,0,1,1,2,0,1,0,1,1,2,1,0,0,0,0,1,0,1,0,1
+Granada,Atletico de Madrid,1,1,1,0,1,0,0,1,0,1,1,0,0,1,1,0,1,0,1,0,0
+Las Palmas,Elche,1,2,1,0,2,1,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0
+Real Sociedad,Barcelona,1,1,1,1,0,0,1,1,0,1,1,2,2,2,1,0,1,0,1,0,1
+Real Madrid,Celta de Vigo,2,2,0,2,2,1,0,1,0,1,0,2,1,0,1,1,1,0,1,0,1
+Sevilla,Atletico de Bilbao,1,0,0,2,1,1,0,1,0,1,1,0,1,2,0,0,1,0,1,0,1
+Valencia,Zaragoza,2,1,2,1,0,1,0,1,0,1,0,1,0,0,2,0,1,0,1,0,1
+Atletico de Bilbao,Granada,0,1,2,0,1,1,0,1,0,1,1,1,0,1,0,0,1,0,1,0,1
+Atletico de Madrid,Real Sociedad,0,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1,1,0,1,0,1
+Barcelona,Sporting de Gijon,2,2,2,1,1,1,0,1,0,1,0,1,1,2,1,1,0,1,1,0,1
+Celta de Vigo,Valencia,2,1,0,1,1,1,0,1,0,1,1,2,1,0,1,0,1,0,1,0,1
+Elche,Espanol,0,0,0,1,0,0,1,0,1,1,0,1,0,1,1,0,1,0,1,0,0
+CD Malaga,Las Palmas,1,0,0,0,1,1,0,1,0,1,2,1,0,2,0,0,0,1,0,0,0
+Sabadell,Real Madrid,1,1,0,1,1,0,1,0,0,1,2,0,2,2,1,0,1,0,1,0,0
+Zaragoza,Sevilla,1,0,0,2,1,1,0,1,0,1,0,0,2,1,1,0,1,0,1,0,1
+Espanol,Las Palmas,1,0,1,1,0,1,0,1,0,1,1,0,2,0,0,0,1,0,0,1,1
+Sporting de Gijon,Atletico de Madrid,1,1,2,1,1,0,1,1,0,1,0,1,1,0,1,0,1,0,1,0,0
+Granada,Zaragoza,1,0,1,0,1,1,0,1,0,1,0,0,2,1,1,0,1,0,1,0,1
+CD Malaga,Barcelona,0,0,0,1,0,0,1,0,1,0,2,2,1,1,1,0,1,0,1,0,2
+Real Sociedad,Atletico de Bilbao,1,1,0,1,1,1,0,1,0,1,1,2,0,1,1,0,1,0,1,0,1
+Real Madrid,Elche,0,2,2,1,0,1,0,1,0,1,0,0,1,0,0,1,0,1,1,0,0
+Sevilla,Celta de Vigo,0,2,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0,1,0,1
+Valencia,Sabadell,2,1,0,1,1,1,0,1,0,1,1,0,1,1,0,1,0,0,1,0,1
+Atletico de Bilbao,Sporting de Gijon,2,0,1,1,1,1,0,1,0,1,1,2,1,1,0,1,1,0,1,0,1
+Atletico de Madrid,CD Malaga,1,1,0,1,0,1,0,1,0,1,0,0,1,0,2,1,0,1,0,0,1
+Celta de Vigo,Granada,0,1,1,1,1,1,0,1,0,1,0,1,0,1,1,0,1,0,1,0,1
+Elche,Valencia,0,1,0,0,0,0,1,1,0,1,1,0,1,1,1,0,1,0,1,0,2
+Espanol,Real Madrid,0,1,1,0,1,0,1,0,1,0,2,2,1,0,0,0,1,0,1,0,2
+Las Palmas,Barcelona,0,2,0,0,1,1,0,0,1,1,2,1,1,1,2,1,0,1,0,1,1
+Sabadell,Sevilla,0,1,1,0,1,0,0,1,0,1,2,1,1,1,1,0,1,0,1,0,1
+Zaragoza,Real Sociedad,0,2,1,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0,1,0,1
+Barcelona,Atletico de Madrid,1,1,1,2,1,0,1,0,1,1,1,0,1,0,1,0,1,0,1,0,1
+Sporting de Gijon,Zaragoza,2,1,1,0,1,1,0,1,0,1,2,1,1,1,1,0,1,0,1,0,0
+Granada,Sabadell,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,1
+CD Malaga,Atletico de Bilbao,0,1,0,2,1,0,1,0,0,1,0,1,1,1,1,0,1,0,1,0,0
+Real Sociedad,Celta de Vigo,0,1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,2
+Real Madrid,Las Palmas,2,1,0,0,2,1,0,1,0,1,2,0,0,1,1,0,0,1,1,0,1
+Sevilla,Elche,1,1,1,1,1,1,0,1,0,1,1,0,0,0,2,1,1,0,1,0,1
+Valencia,Espanol,0,1,1,1,2,1,0,1,0,1,1,1,0,1,2,1,0,1,0,0,1
+Atletico de Madrid,Las Palmas,0,1,0,1,1,1,0,1,0,1,0,0,1,1,1,0,1,1,0,1,1
+Barcelona,Atletico de Bilbao,1,1,2,1,1,1,0,1,1,0,1,1,1,1,0,1,0,1,0,1,2
+Sporting de Gijon,Celta de Vigo,1,1,0,1,0,0,1,0,1,0,1,1,1,1,2,1,0,1,0,1,1
+Granada,Elche,0,1,1,1,1,0,1,0,1,0,0,0,0,2,1,1,0,1,0,1,1
+CD Malaga,Zaragoza,1,0,2,1,0,1,0,0,1,0,1,1,1,1,0,1,0,1,0,1,1
+Real Sociedad,Sabadell,1,1,1,1,2,0,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1
+Sevilla,Espanol,1,1,1,1,1,0,1,0,1,0,1,0,1,2,1,0,1,0,0,1,1
+Valencia,Real Madrid,1,1,1,2,1,0,1,0,1,0,1,0,0,2,1,0,1,0,1,0,1
+Atletico de Bilbao,Atletico de Madrid,1,1,1,0,2,0,1,0,1,1,1,0,1,1,1,0,1,0,1,0,1
+Celta de Vigo,CD Malaga,1,1,1,2,1,0,1,0,1,1,0,2,1,0,1,0,0,1,0,0,0
+Elche,Real Sociedad,0,0,2,1,1,0,1,0,1,1,1,1,1,2,1,1,0,1,0,0,2
+Espanol,Granada,0,1,2,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,0,0,1
+Las Palmas,Valencia,0,1,1,1,1,1,1,0,1,1,1,1,2,1,1,1,0,1,0,0,0
+Real Madrid,Sevilla,0,0,2,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,1
+Sabadell,Sporting de Gijon,0,1,1,1,1,0,1,0,1,1,1,0,1,0,1,1,0,1,0,0,1
+Zaragoza,Barcelona,1,1,1,0,1,0,1,0,1,1,1,2,1,1,2,0,1,1,0,0,2
+Atletico de Bilbao,Las Palmas,1,1,0,2,1,1,0,1,1,0,1,1,1,1,0,1,0,1,1,0,1
+Atletico de Madrid,Zaragoza,0,1,1,1,1,1,0,1,0,1,1,1,0,1,2,1,0,1,1,0,1
+Barcelona,Celta de Vigo,2,1,1,2,2,1,1,0,0,1,1,1,2,1,0,1,0,1,1,0,1
+Sporting de Gijon,Elche,0,1,0,1,1,0,1,0,0,1,0,2,1,1,2,1,0,1,1,0,1
+Granada,Real Madrid,1,1,1,1,1,0,1,0,0,1,0,2,1,1,1,0,1,0,1,0,1
+CD Malaga,Sabadell,2,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,1,1,0,1
+Real Sociedad,Espanol,1,1,2,1,2,0,1,0,0,1,1,2,1,1,1,0,0,1,1,0,1
+Sevilla,Valencia,1,1,1,1,1,0,1,0,0,1,1,2,1,1,0,0,1,0,0,1,0
+Celta de Vigo,Atletico de Madrid,1,2,1,0,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1,0,1
+Elche,CD Malaga,2,1,1,2,1,0,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0
+Espanol,Sporting de Gijon,2,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,0,0,1,0,1
+Real Madrid,Real Sociedad,2,1,1,1,1,1,0,1,0,1,1,2,1,2,1,1,0,0,1,0,1
+Sabadell,Barcelona,1,1,1,1,1,0,1,1,0,1,1,1,2,2,1,1,0,0,1,0,1
+Sevilla,Las Palmas,1,1,1,1,0,1,0,0,1,0,1,1,1,0,1,0,1,1,0,1,1
+Valencia,Granada,2,1,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0,1,0,1
+Zaragoza,Atletico de Bilbao,1,0,1,2,1,0,1,1,0,1,1,0,2,1,1,0,1,1,0,0,2
+Atletico de Bilbao,Celta de Vigo,0,2,1,1,2,1,1,0,0,1,2,1,0,1,1,1,1,0,1,0,1
+Atletico de Madrid,Sabadell,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,0,1
+Barcelona,Elche,1,2,2,1,1,0,0,1,0,1,1,1,2,1,0,1,1,0,1,0,0
+Sporting de Gijon,Real Madrid,0,1,1,1,1,0,0,1,0,1,1,1,1,1,1,0,1,0,1,0,2
+Granada,Sevilla,1,1,1,1,1,0,0,1,0,1,1,1,1,0,1,0,0,1,0,0,0
+Las Palmas,Zaragoza,1,1,0,1,1,1,1,0,1,1,0,1,2,1,2,1,1,0,1,0,1
+CD Malaga,Espanol,0,1,0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+Real Sociedad,Valencia,2,1,2,1,1,0,0,1,0,1,1,1,0,0,1,0,0,1,1,0,0
+Celta de Vigo,Zaragoza,1,0,1,1,1,1,0,1,0,1,1,2,1,2,1,1,0,1,0,1,1
+Elche,Atletico de Madrid,1,2,1,0,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,2
+Espanol,Barcelona,1,1,1,1,0,1,0,1,0,1,2,2,1,1,0,0,1,0,1,0,2
+Las Palmas,Granada,1,0,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,0,1,0,1
+Real Madrid,CD Malaga,1,1,1,1,2,1,0,1,0,1,1,0,1,0,0,0,1,0,1,0,0
+Sabadell,Atletico de Bilbao,1,1,1,1,1,1,0,1,0,1,2,1,1,2,1,1,0,0,1,0,1
+Sevilla,Real Sociedad,1,1,0,1,0,0,1,0,0,1,1,2,1,1,0,0,1,0,1,0,1
+Valencia,Sporting de Gijon,1,0,0,1,0,0,1,1,0,1,1,1,1,1,2,0,1,0,1,0,1
+Atletico de Bilbao,Elche,1,1,2,1,1,0,0,1,0,1,2,1,0,0,2,0,1,0,1,0,1
+Atletico de Madrid,Espanol,1,1,1,1,2,1,0,1,0,1,1,1,1,0,2,0,1,0,1,0,1
+Barcelona,Real Madrid,2,1,1,0,2,1,0,1,0,1,1,1,1,2,0,0,1,0,1,0,2
+Celta de Vigo,Las Palmas,0,1,1,1,1,0,1,0,1,0,0,1,1,1,1,0,1,1,0,0,1
+Sporting de Gijon,Sevilla,1,1,1,2,1,1,0,1,0,1,1,0,1,0,1,1,0,0,1,0,1
+CD Malaga,Valencia,0,1,0,0,0,1,0,1,0,1,0,0,1,0,1,1,1,0,1,0,2
+Real Sociedad,Granada,2,1,1,0,1,1,0,1,0,1,1,1,1,0,1,1,0,1,0,1,0
+Zaragoza,Sabadell,2,1,2,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,1,0,1
+Elche,Zaragoza,1,0,0,2,1,1,0,1,0,1,1,2,1,1,1,1,0,1,1,0,1
+Espanol,Atletico de Bilbao,1,1,0,2,1,1,0,1,0,1,1,2,1,1,1,0,1,0,1,0,1
+Granada,Sporting de Gijon,1,1,0,1,0,0,1,0,1,1,1,1,2,1,1,0,1,0,1,0,1
+Real Sociedad,Las Palmas,1,1,0,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,0,1,1
+Real Madrid,Atletico de Madrid,1,1,2,0,2,1,0,1,0,1,1,1,1,2,1,0,1,0,1,0,1
+Sabadell,Celta de Vigo,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,1
+Sevilla,CD Malaga,0,1,0,1,1,0,0,1,0,1,1,0,0,0,2,0,1,0,1,0,1
+Valencia,Barcelona,0,1,0,1,2,1,0,1,0,1,1,1,0,2,2,0,1,0,1,0,0
+Atletico de Madrid,Valencia,1,1,2,1,1,1,0,1,0,1,1,0,1,2,0,0,1,0,1,0,1
+Atletico de Bilbao,Real Madrid,2,1,1,1,1,1,0,1,0,1,1,2,0,2,1,0,1,0,1,0,2
+Barcelona,Sevilla,1,0,2,2,0,1,0,1,0,1,1,0,1,1,1,0,1,0,1,0,1
+Celta de Vigo,Elche,1,1,1,1,1,0,1,0,0,1,0,0,2,1,1,0,1,0,1,0,1
+Sporting de Gijon,Real Sociedad,1,2,1,1,1,1,0,1,0,1,1,0,1,0,1,1,0,1,0,0,1
+Las Palmas,Sabadell,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,0,1,0,1
+CD Malaga,Granada,0,0,0,2,1,1,0,1,0,1,1,0,1,0,1,1,0,1,1,0,1
+Zaragoza,Espanol,2,1,1,1,1,0,1,1,0,1,1,0,2,1,1,0,1,0,1,0,0
+Elche,Sabadell,0,2,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,1,0
+Espanol,Celta de Vigo,0,2,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,1,0,2
+Sporting de Gijon,Las Palmas,2,1,1,1,1,0,1,0,1,0,1,1,1,1,1,0,0,1,1,0,1
+Granada,Barcelona,0,1,0,1,1,0,1,1,0,1,0,2,2,0,1,0,1,0,1,0,2
+Real Sociedad,CD Malaga,0,1,0,1,1,0,1,0,0,1,0,0,2,1,1,0,1,0,1,0,2
+Real Madrid,Zaragoza,2,0,2,1,2,1,0,1,0,1,1,1,1,1,0,1,1,0,1,0,1
+Sevilla,Atletico de Madrid,0,1,1,1,1,1,0,1,0,1,1,2,1,1,1,0,1,0,1,0,0
+Valencia,Atletico de Bilbao,0,1,2,0,1,1,0,1,0,1,1,1,1,1,2,0,1,0,1,0,1
+Atletico de Madrid,Granada,2,1,1,1,0,1,0,1,0,1,1,0,1,1,2,1,1,0,1,0,1
+Atletico de Bilbao,Sevilla,1,1,1,2,1,1,0,1,0,1,1,1,1,1,0,0,1,0,1,0,1
+Barcelona,Real Sociedad,2,2,0,1,2,1,0,1,0,1,1,0,1,1,2,1,0,0,1,0,1
+Celta de Vigo,Real Madrid,1,1,1,1,2,0,0,1,0,1,0,2,1,2,1,0,1,0,1,0,1
+Elche,Las Palmas,2,1,1,1,0,0,1,0,1,0,1,1,1,1,1,0,1,1,0,1,1
+CD Malaga,Sporting de Gijon,0,2,1,1,2,1,0,1,0,1,1,1,1,1,1,1,0,1,0,0,1
+Sabadell,Espanol,1,1,1,1,0,0,1,0,1,1,2,1,1,0,2,0,1,0,1,0,0
+Zaragoza,Valencia,1,1,1,0,1,1,0,1,0,1,1,2,0,1,1,0,1,0,1,0,2
+Espanol,Elche,1,1,0,2,0,1,0,1,0,1,1,1,1,0,1,1,0,1,0,0,1
+Sporting de Gijon,Barcelona,1,1,1,1,1,0,1,0,0,1,2,0,1,2,1,0,1,0,1,0,2
+Granada,Atletico de Bilbao,0,1,1,2,1,1,0,1,0,1,1,1,2,1,1,0,1,0,1,0,0
+Las Palmas,CD Malaga,1,1,1,1,1,1,1,0,1,1,2,1,1,2,1,0,1,0,1,0,2
+Real Sociedad,Atletico de Madrid,0,1,1,2,1,0,0,1,0,1,1,1,1,0,1,0,1,0,1,0,2
+Real Madrid,Sabadell,2,1,2,1,1,1,0,1,0,1,1,1,1,0,0,1,0,1,1,0,1
+Sevilla,Zaragoza,1,1,1,0,1,1,0,1,0,1,1,1,0,1,2,0,1,0,1,0,1
+Valencia,Celta de Vigo,2,0,1,1,2,1,0,1,0,1,1,1,1,2,1,0,1,0,1,0,1
+Atletico de Bilbao,Real Sociedad,1,2,1,1,0,1,0,1,0,1,1,1,2,1,2,0,1,0,1,0,0
+Atletico de Madrid,Sporting de Gijon,1,1,0,1,2,1,0,1,0,1,1,1,1,1,2,1,0,0,1,0,1
+Barcelona,CD Malaga,0,1,2,1,2,1,0,1,0,1,1,1,2,1,2,1,0,1,0,1,1
+Celta de Vigo,Sevilla,1,1,2,1,1,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,1
+Elche,Real Madrid,1,1,0,1,1,0,1,0,0,1,1,2,1,1,1,0,1,0,1,0,2
+Las Palmas,Espanol,1,1,1,1,2,1,0,1,1,0,1,0,2,0,1,0,1,0,1,0,0
+Sabadell,Valencia,1,1,0,0,1,0,1,1,0,1,0,1,1,2,1,0,1,0,1,0,2
+Zaragoza,Granada,1,0,1,2,1,1,0,1,0,1,1,1,2,1,0,0,1,0,1,0,0
+CD Malaga,Atletico de Madrid,1,2,1,2,1,0,1,0,1,1,1,0,1,2,1,0,1,0,1,0,0
+Real Madrid,Espanol,2,1,1,1,2,1,0,1,0,1,0,2,0,1,0,1,0,1,0,1,1
+Sporting de Gijon,Atletico de Bilbao,1,1,1,2,1,0,0,1,0,1,2,1,1,0,0,0,1,0,1,0,1
+Granada,Celta de Vigo,1,2,1,0,0,1,0,1,0,1,1,2,1,1,1,0,1,0,1,0,1
+Real Sociedad,Zaragoza,1,2,1,2,0,1,0,1,0,1,0,1,2,1,0,0,1,0,1,0,1
+Sevilla,Sabadell,1,0,1,1,1,1,0,1,0,1,1,0,0,1,2,1,1,0,1,0,1
+Valencia,Elche,1,1,2,1,2,1,0,1,0,1,1,0,1,1,2,1,0,0,1,0,1
+Barcelona,Las Palmas,1,2,1,2,1,0,1,0,1,0,1,1,1,2,0,0,1,1,0,0,1
+Atletico de Bilbao,CD Malaga,1,1,0,0,1,1,0,1,0,1,2,1,2,1,0,1,0,1,1,0,1
+Atletico de Madrid,Barcelona,0,1,2,1,0,1,0,1,0,1,2,1,2,1,1,1,0,1,0,0,0
+Celta de Vigo,Real Sociedad,2,1,1,1,1,1,0,1,0,1,2,1,2,0,1,0,1,0,1,0,0
+Elche,Sevilla,0,1,1,2,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,1
+Espanol,Valencia,2,0,1,0,1,0,1,0,1,1,1,2,1,2,1,0,1,0,1,0,1
+Las Palmas,Real Madrid,1,1,2,0,1,1,1,0,0,1,1,1,1,2,1,0,1,0,1,0,0
+Sabadell,Granada,0,0,1,2,1,1,0,1,0,1,2,1,0,0,1,0,1,0,1,0,2
+Zaragoza,Sporting de Gijon,1,2,1,0,1,1,0,1,0,1,1,1,2,1,1,0,1,0,1,0,0
